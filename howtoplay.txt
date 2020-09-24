@@ -1,0 +1,6 @@
+in this game you want to make pairs of cards that equal 13 until all
+cards in the pile and in the pyramid are gone.you make pairs by 
+dragging open cards onto other open cards, for example, 10 onto a 3,
+2 on a jack, ace on a queen. kings are 13 soyou just need to double
+click them. you double click the pile to unveil 3 more open cards.
+open cards are ones that have no cards covering part of them.
